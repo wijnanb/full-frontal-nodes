@@ -1,22 +1,3 @@
-# Node.js environment
-
-Install node.js via http://nodejs.org
-
-Install the dependencies
-
-    npm install
-
-Compile and watch coffee scripts
-
-    coffee -bcw *.coffee
-
-Run the program:
-
-    node program.js < input.txt
-
-
-# Docs
-
 ## Javascript reference
 
 Run server with
