@@ -1,0 +1,1 @@
+var acme={guid:function(){var a,c,b;a="";for(b=0;b<32;b++){if(b==8||b==12||b==16||b==20){a=a+"-"}c=Math.floor(Math.random()*16).toString(16).toUpperCase();a=a+c}return a}};

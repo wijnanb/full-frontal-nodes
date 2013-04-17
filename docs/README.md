@@ -13,7 +13,7 @@ Now the server runs on:
 
 ## Coffeescript
 
-    cd ~/Projects/VlaamseProgrammeerWedstrijd/docs/dochub/
+    cd ~/Projects/VlaamseProgrammeerWedstrijd/docs/coffeescript.org/
     serve3000
 
 Now the server runs on:
@@ -30,3 +30,13 @@ Now the server runs on:
 Now the server runs on:
 
     http://localhost:3001
+
+
+## Underscorejs.org
+
+    cd ~/Projects/VlaamseProgrammeerWedstrijd/docs/underscorejs.org/
+    serve3002
+
+Now the server runs on:
+
+    http://localhost:3002
